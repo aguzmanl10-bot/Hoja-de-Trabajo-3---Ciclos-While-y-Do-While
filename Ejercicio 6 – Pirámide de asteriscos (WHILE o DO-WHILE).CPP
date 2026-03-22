@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
 
+//Solicite un número entero
+//Genere una pirámide de asteriscos
+
 int main() {
+     cout << "Nombre: ANA GABRIELA GUZMAN LEMUS" << endl << endl;
+
     int n, i = 1;
 
     cout << "Ingrese un numero: ";
